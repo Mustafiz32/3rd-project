@@ -4,7 +4,7 @@ table{
     width: 700px;
     text-align: left;
     margin-top: 50px;
-    background: linear-gradient(rgb(0, 255, 34),rgb(185, 128, 5));
+    background: linear-gradient(green,black);
     border: solid 2px;
     height: 100px;
     color: white;
